@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[8],{fbcc:function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("q-page",[t("h1",[n._v("\n    admin\n  ")])])},a=[],l={},u=l,r=t("2877"),s=Object(r["a"])(u,c,a,!1,null,null,null);e["default"]=s.exports}}]);
